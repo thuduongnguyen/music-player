@@ -1,7 +1,7 @@
 # Music Player
 
 ### Deployment
-Link: 
+Link: https://thuduongnguyen.github.io/music-player/
 
 ### Technologies Used
 - JavaScript
