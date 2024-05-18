@@ -1,5 +1,5 @@
 # Music Player Website
-Click on this link to deploy: https://thuduongn.github.io/music-player/
+Click on this link to deploy: https://thuduongnguyen.github.io/music-player/
 
 ## Description
 This repository contains the code for a music player website. The website is designed to provide a user-friendly interface for playing music tracks.
